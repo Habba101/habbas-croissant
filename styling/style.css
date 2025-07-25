@@ -1,0 +1,35 @@
+body {
+  background: aquamarine;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  color: darkmagenta;
+  text-align: center;
+  padding: 3px;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+#email {
+  color: blue;
+}
+#email:hover {
+  color: brown;
+}
+
+.links {
+  text-align: center;
+  margin-top: 20px;
+}
